@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is about using behavior test-driven tool, Jasmine, to create a series of test suites for Feed Reader Application. 
+This project is about using behavior test-driven framework, Jasmine, to create a series of test suites for Feed Reader Application. 
 
 ## Getting Started
 
