@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is about using behavior test-driven framework, Jasmine, to create a series of test suites for Feed Reader Application. 
+This project explores behavior test-driven framework, Jasmine, to create a series of test suites for Feed Reader Application. 
 
 ## Getting Started
 
@@ -10,4 +10,4 @@ This project is about using behavior test-driven framework, Jasmine, to create a
 
 ## Requirement
 
-It works well on Chrome and Firefox, so those are the recommended browser. 
+It works well on Chrome and Firefox, so those are the recommended browsers. 
